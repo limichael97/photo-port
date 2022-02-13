@@ -28,4 +28,6 @@ function Gallery(props) {
     );
 }
 
+
+
 export default Gallery;
